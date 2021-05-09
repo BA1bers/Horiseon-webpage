@@ -12,8 +12,8 @@ At Horiseon, our goal is to provide useful marketing tools in order to help you 
   * CSS
 
 # Website Screenshots :
-(./assets/images/horiseon1.PNG)
-(./assets/images/horiseon2.PNG)
+![Top of the page](./assets/images/horiseon1.PNG)
+![Bottom of the page](./assets/images/horiseon2.PNG)
 
 ## Made by:
 Brent Albers
