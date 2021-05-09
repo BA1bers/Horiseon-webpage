@@ -1,6 +1,5 @@
 # Horiseon
 At Horiseon, our goal is to provide useful marketing tools in order to help you succesfully grow your business
-
 ##Installation
 [You can pull the link to Horiseon from here:](https://github.com/BA1bers/Horiseon-webpage.git)
 
